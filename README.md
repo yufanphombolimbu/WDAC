@@ -4,7 +4,12 @@ Windows Defender Application Control (WDAC) is a security feature built into Win
 
 
 
-
+Base policy xml file along with cip.
+Base policy generated from the app control policy. Allow Windows Mode is used.
+Keep on a mind
+C:\Windows\system32\codeintegrity\Active\cipolices -> To keep the CIP file on a Windows system for use with AppControl in audit mode.
+Use can also used xml for implementing audit mode on windows.
+Please refers to microsoft official documentation.
 
 
 
