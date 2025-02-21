@@ -1,0 +1,21 @@
+Links and resources for Appcontrol
+
+Microsoft link for appcontrol
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/applocker/applocker-overview
+
+Tools for creating audit mode policy
+https://github.com/MicrosoftDocs/WDAC-Toolkit/blob/main/WDAC-Policy-Wizard/docs/using/base-policy.md
+
+Deploying wdac on a windows machine
+https://argonsys.com/microsoft-cloud/library/deploying-windows-10-application-control-policy/
+https://spynetgirl.medium.com/windows-defender-application-control-wdac-introduction-486d6a1e5274
+https://call4cloud.nl/configure-deploy-wdac-application-control-mdag/
+https://youtu.be/7Z3IRfpdWFw?si=EZJtpCHkbUlCDF46
+https://youtu.be/RHwCeW1seMg?si=w9CsHoCYK3f0bzVV
+
+
+Configure AppLocker via microsoft intune
+https://youtu.be/CnaoET4gt5A?si=ES_iyp198Kgq1nlV
+
+Microsoft Intune App protection for Windows (MAM for windows)
+https://youtu.be/wx2BxqkK1mM?si=cbFM58gcgt14Ls1P
