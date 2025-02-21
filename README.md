@@ -12,4 +12,4 @@ Use can also used xml for implementing audit mode on windows.
 Please refers to microsoft official documentation.
 
 
-
+Be careful before deploying Enforcement Mode on a Windows machine, as it will block all programs, applications, browsers, and other software. Enforcement Mode works based on a publisher, file attributes, hash, and folder paths specified in the policies. Think carefully before deploying Enforcement Mode, as it could cause your Windows PC to crash if the policy is not set correctly or if file signers are missing from the XML. A blue screen of death will appear after deploying Enforcement Mode if the instructions are not properly followed.
