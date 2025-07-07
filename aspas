@@ -1,0 +1,4 @@
+(Get-AppLockerPolicy -Effective).RuleCollections | ForEach-Object {
+    Write-Host "Rule Type: $($_.CollectionType)"
+    $_.Rules | Format-Table Name, Action, UserOrGroupSid, Conditions -AutoSize
+}
